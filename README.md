@@ -37,22 +37,18 @@ Eventify is a modern **Flutter-based event booking app** designed to make event 
 - **Authentication:** Firebase Auth (Email, Google Sign-In)  
 ## 🚀 Getting Started  
 ### 1️⃣ Clone the Repository  
-```bash
+
 git clone https://github.com/DarshiniKurasa/Eventify.git
 cd Eventify
-2️⃣ Install Dependencies
-bash
-Copy
-Edit
+### 2️⃣ Install Dependencies
+
 flutter pub get
-3️⃣ Run the App
-bash
-Copy
-Edit
+### 3️⃣ Run the App
+
 flutter run
 🔹 Ensure you have a connected emulator or physical device.
 
-📌 Roadmap
+### 📌 Roadmap
 ✅ Event Discovery
 ✅ User Profiles & Favorites
 🚧 Event Ticket Booking
@@ -65,16 +61,10 @@ flutter run
 🎨 UI Preview
 🚧 Coming Soon 🚧
 
-🙌 Contributing
+🙌## Contributing
 Since this project is still in progress, contributions are welcome! Feel free to open issues or submit pull requests.
 
 📜 License
 This project is MIT Licensed.
 
-🚀 Stay tuned for updates! Feel free to ⭐ the repo!
-
-python
-Copy
-Edit
-
-This README follows a clean, structured, and professional format. Let me know if you need 
+### 🚀 Stay tuned for updates! Feel free to ⭐ the repo!
